@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Vaishnav</h1>
-<h3 align="center">A passionate wev developer from India</h3>
-
-- 🌱 I’m currently learning **Laravel**
+<h3 align="center">A passionate web developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalvaishnav/](https://github.com/vishalvaishnav/)
 
-- 💬 Ask me about **php, codeigniter, mysql, AWS Services**
 
 - 📫 How to reach me **vishalvinu.vaishnav@gmail.com**
 
